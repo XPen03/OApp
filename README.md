@@ -1,8 +1,11 @@
 # OApp
 
 python 3
+
 django 2
+
 django restful framework 3
+
 
 this django part is used to upload images(files) to the server
 
