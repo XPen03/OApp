@@ -9,6 +9,8 @@ django restful framework 3
 
 this django part is used to upload images(files) to the server
 
+.../upload/ to use the site
+
 python manage.py makemigrations
 
 python manage.py migrate
