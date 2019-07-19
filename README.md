@@ -9,6 +9,8 @@ django restful framework 3
 
 this django part is used to upload images(files) to the server
 
+!!!It is available to upload any kind of files (dangerous)
+
 .../upload/ to use the site
 
 python manage.py makemigrations
